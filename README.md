@@ -31,7 +31,6 @@
 </p>
 
 <div align="center">
-
 [English](./README_en.md) | 中文
 
 </div>
@@ -74,6 +73,24 @@
 | **定时任务**  |  ✅   | 定时或间隔执行更新                                  |
 | **多平台部署** |  ✅   | 工作流、命令行、GUI 软件、Docker (amd64/arm64/arm v7) |
 | **更多功能**  |  ✨   | 详见[配置参数](#配置)章节                            |
+
+## 最新结果
+
+- ipv4
+
+  ```	
+  https://gh-proxy.com/https://raw.githubusercontent.com/chuwei-dev/iptv-api/master/output/ipv4/result.m3u
+  ```
+
+- ipv6
+
+  ```
+  https://gh-proxy.com/https://raw.githubusercontent.com/chuwei-dev/iptv-api/master/output/ipv6/result.m3u
+  ```
+
+  
+
+
 
 ## 配置
 
