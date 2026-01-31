@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/chuwei-dev/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-31 18:23:46
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-01 06:21:25
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -935,6 +935,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="山西卫视.png" group-title="📡卫视频道",山西卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="山西卫视.png" group-title="📡卫视频道",山西卫视
+https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="陕西卫视.png" group-title="📡卫视频道",陕西卫视
 https://migu.188766.xyz/?migutoken=8ee3aea078dcaa29d998fa90f972dd21&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="陕西卫视.png" group-title="📡卫视频道",陕西卫视
@@ -1073,6 +1075,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
 http://live.wqwqwq.sbs/itv/5000000011000031120.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="📡卫视频道",云南卫视
 https://hls-gateway.vpstv.net/streams/708863.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="📡卫视频道",云南卫视
+https://t.freetv.fun/live/yun-nan-wei-shi-2.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="广东珠江.png" group-title="☘️广东频道",广东珠江
 http://r.jdshipin.com/sE5vO
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="广东珠江.png" group-title="☘️广东频道",广东珠江
