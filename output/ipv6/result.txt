@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-07 18:24:49,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-08 06:23:11,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -633,6 +633,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-31.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-12.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv
+广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-1.m3u8
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-2.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-7.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-1.ctv
