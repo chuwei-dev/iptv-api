@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-07 06:33:45,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-07 18:55:07,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -595,15 +595,15 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 广东卫视,https://migu.188766.xyz/?migutoken=99952a1412cd0baa384ce93dff83bdbd&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
 广东民生,https://hk.188766.xyz/?migutoken=373adf09688d5268f3da0587de76509a&id=gd_gdms&type=sz
-广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
-广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
-广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-16.ctv
-广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-21.ctv
-广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-36.ctv
-广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-18.ctv
-广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-3.ctv
-广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-30.ctv
 广东民生,https://hk.188766.xyz/?migutoken=aee5688b193fad8328e61ce47543f064&id=gd_gdms&type=sz
+广东民生,https://hk.188766.xyz/?migutoken=c1418928cceffeb70b24829f01a2873e&id=gd_gdms&type=sz
+广东民生,https://hk.188766.xyz/?migutoken=10d0cba5b3fb0b91180188690acfdbfd&id=gd_gdms&type=sz
+广东民生,https://hk.188766.xyz/?migutoken=8391cbee7714652e22011effbfe54e9f&id=gd_gdms&type=sz
+广东民生,https://hk.188766.xyz/?migutoken=872e0af7041d965bb4514e12c07e3300&id=gd_gdms&type=sz
+广东民生,https://hk.188766.xyz/?migutoken=4dbbf49e9ca87c8ef3fac5c7df4efdfa&id=gd_gdms&type=sz
+广东民生,https://hk.188766.xyz/?migutoken=2d1d94242fcad2ee0d32730941761c52&id=gd_gdms&type=sz
+广东民生,https://hk.188766.xyz/?migutoken=68ea540b8f8061af06537152b2998b81&id=gd_gdms&type=sz
+广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-14.m3u8
 大湾区卫视,https://migu.188766.xyz/?migutoken=67a71f4c9d50568f23d4cd353af12f01&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
 大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=bad0a45eea94649f2e7f1b35e1d98d034b874a02984a76abb21e4537dee28f974e6da241dc7705109722be71c8b1302302b51cd4cb06c69ca55fdcf7279d415e0a0fce7c492b6842956ab34fcc
