@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-21 19:04:41,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-22 06:36:16,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -511,13 +511,13 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 三沙卫视,https://migu.188766.xyz/?migutoken=a1d2ebcd5e6810f85c578c656c70bd45&id=hn_ssws&type=sz
 三沙卫视,https://migu.188766.xyz/?migutoken=83983311aaee13c2f0bf7cf73ea4680c&id=hn_ssws&type=sz
 三沙卫视,https://migu.188766.xyz/?migutoken=2959c1b8c956552068c4df809ecdd241&id=hn_ssws&type=sz
+三沙卫视,https://stream1.freetv.fun/2476872184d56573ae915237d8e3c990ded214446351f568b57889cbf63da2e8.m3u8
 三沙卫视,https://migu.188766.xyz/?migutoken=beb9aeaa31d41c3a8bff5e8f6e13a515&id=hn_ssws&type=sz
 三沙卫视,https://migu.188766.xyz/?migutoken=f13db9067bee7786fba71efecd474d7b&id=hn_ssws&type=sz
 三沙卫视,https://migu.188766.xyz/?migutoken=7da7a3d5636d5f36547361ac11f23321&id=hn_ssws&type=sz
 三沙卫视,https://migu.188766.xyz/?migutoken=fb23d52270e19fb753507613bbc6c60e&id=hn_ssws&type=sz
 三沙卫视,https://migu.188766.xyz/?migutoken=816f53df693e62f4ea788c4b5a76bc44&id=hn_ssws&type=sz
 三沙卫视,https://migu.188766.xyz/?migutoken=f88eb74821e3494bdbabf8661654ad16&id=hn_ssws&type=sz
-三沙卫视,https://migu.188766.xyz/?migutoken=b39bc8200d825909e20d40c28391a313&id=hn_ssws&type=sz
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
 天津卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 天津卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8
@@ -558,12 +558,12 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,https://hk.188766.xyz/?migutoken=c047919a519b1095da35b0526070ab31&id=gd_gdzj&type=sz
 广东珠江,http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
+广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-16.ctv
+广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-4.ctv
+广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-18.ctv
+广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-19.ctv
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,https://hk.188766.xyz/?migutoken=8744ca84eddf1dbf6f464e00de37f5b9&id=gd_gdzj&type=sz
-广东珠江,https://hk.188766.xyz/?migutoken=6425382152e7e38349659a465e61907c&id=gd_gdzj&type=sz
-广东珠江,https://hk.188766.xyz/?migutoken=ec3234b8aca15b21f5fdd8fe1f24f0c2&id=gd_gdzj&type=sz
-广东珠江,https://hk.188766.xyz/?migutoken=211674b70f28b3fecf757103c050e861&id=gd_gdzj&type=sz
-广东珠江,https://hk.188766.xyz/?migutoken=75d82ac4fd56e5ed0c7ae444fb817bc4&id=gd_gdzj&type=sz
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,https://migu.188766.xyz/?migutoken=f59bc4cdebb45f3b352549c49b5c63b1&id=hk_gdty&type=dy
@@ -595,15 +595,15 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 广东卫视,https://migu.188766.xyz/?migutoken=99952a1412cd0baa384ce93dff83bdbd&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
 广东民生,https://hk.188766.xyz/?migutoken=373adf09688d5268f3da0587de76509a&id=gd_gdms&type=sz
+广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
+广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
+广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-16.ctv
+广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-21.ctv
+广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-36.ctv
+广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-18.ctv
+广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-3.ctv
+广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-30.ctv
 广东民生,https://hk.188766.xyz/?migutoken=aee5688b193fad8328e61ce47543f064&id=gd_gdms&type=sz
-广东民生,https://hk.188766.xyz/?migutoken=c1418928cceffeb70b24829f01a2873e&id=gd_gdms&type=sz
-广东民生,https://hk.188766.xyz/?migutoken=10d0cba5b3fb0b91180188690acfdbfd&id=gd_gdms&type=sz
-广东民生,https://hk.188766.xyz/?migutoken=8391cbee7714652e22011effbfe54e9f&id=gd_gdms&type=sz
-广东民生,https://hk.188766.xyz/?migutoken=872e0af7041d965bb4514e12c07e3300&id=gd_gdms&type=sz
-广东民生,https://hk.188766.xyz/?migutoken=4dbbf49e9ca87c8ef3fac5c7df4efdfa&id=gd_gdms&type=sz
-广东民生,https://hk.188766.xyz/?migutoken=2d1d94242fcad2ee0d32730941761c52&id=gd_gdms&type=sz
-广东民生,https://hk.188766.xyz/?migutoken=68ea540b8f8061af06537152b2998b81&id=gd_gdms&type=sz
-广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-14.m3u8
 大湾区卫视,https://migu.188766.xyz/?migutoken=67a71f4c9d50568f23d4cd353af12f01&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
 大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=bad0a45eea94649f2e7f1b35e1d98d034b874a02984a76abb21e4537dee28f974e6da241dc7705109722be71c8b1302302b51cd4cb06c69ca55fdcf7279d415e0a0fce7c492b6842956ab34fcc
