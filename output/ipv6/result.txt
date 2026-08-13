@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-13 06:43:20,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-08-13 19:08:10,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -617,14 +617,14 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 大湾区卫视,https://migu.188766.xyz/?migutoken=3be12ed462f52c88b960569849f57109&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
-广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-19.ctv
-广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-11.ctv
-广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-25.ctv
-广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-12.ctv
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-15.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-16.php
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-18.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-2.m3u8
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-3.m3u8
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-4.m3u8
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-7.m3u8
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-8.m3u8
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-15.ctv
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-7.ctv
